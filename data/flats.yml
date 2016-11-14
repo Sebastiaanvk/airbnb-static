@@ -1,0 +1,59 @@
+seb:
+  owner_name: Sebastien
+  picture: ../images/card-paris.jpg
+  owner_picture: seb.jpg
+  name: Seb's home
+  summary: Charming room in Montmartre
+  city: Paris, France
+  wifi: true
+  tv: true
+  welcome_drink: true
+  kitchen: true
+  about: This one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue - 3 minutes walk from Sacré Coeur.
+  accomodates: 2
+  bathrooms: 1
+  bed_type: Real bed
+  bedrooms: 1
+  beds: 2
+  property_type: Apartment
+  room_type: Entire Home/Apmt
+
+romain:
+  owner_name: Romain
+  picture: ../images/card-london.jpg
+  owner_picture: romain.jpg
+  name: Romain's home
+  summary: Nice flat in Piccadilly
+  city: London, UK
+  wifi: false
+  tv: false
+  welcome_drink: true
+  kitchen: true
+  about: This one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue - 3 minutes walk from Sacré Coeur.
+  accomodates: 3
+  bathrooms: 3
+  bed_type: Fake bed
+  bedrooms: 0
+  beds: 5
+  property_type: Studio
+  room_type: Entire Home/Apmt
+
+anne:
+  owner_name: Anne
+  picture: ../images/card-brussels.jpg
+  owner_picture: anne.jpg
+  name: Anne's home
+  summary: Lovely house
+  city: Brussels, Belgium
+  wifi: true
+  tv: false
+  welcome_drink: true
+  kitchen: false
+  about: This one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue - 3 minutes walk from Sacré Coeur.
+  accomodates: 4
+  bathrooms: 2
+  bed_type: Real bed
+  bedrooms: 2
+  beds: 4
+  property_type: House
+  room_type: Entire Home/Apmt
